@@ -1,7 +1,7 @@
 
 
 <!--
-**oachyote/Oachyote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oachyote/oachyote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ![anime](https://raw.githubusercontent.com/oachyote/oachyote/main/IMG_0315.jpeg)
-![Oachyote Stats](https://github-readme-stats.vercel.app/api?username=Oachyote&show_icons=true&theme=rose&border_color=FFB6C1&cache_seconds=1800)
+![oachyote Stats](https://github-readme-stats.vercel.app/api?username=oachyote&show_icons=true&theme=rose&border_color=FFB6C1&cache_seconds=1800)
