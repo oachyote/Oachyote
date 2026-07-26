@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oachyote/Oachyote/main/5f1f1712dff2849e414f8836422c521d.jpeg" width="600"/>
+  <img src="https://raw.githubusercontent.com/oachyote/oachyote/main/IMG_0315.jpeg" width="600"/>
 </p>
+
