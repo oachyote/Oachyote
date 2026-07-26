@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![anime](https://raw.githubusercontent.com/oachyote/oachyote/main/IMG_0315.jpeg)
-![oachyote Stats](https://github-readme-stats.vercel.app/api?username=oachyote&show_icons=true&theme=rose&border_color=FFB6C1&cache_seconds=1800)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oachyote/Oachyote/main/5f1f1712dff2849e414f8836422c521d.jpeg" width="600"/>
+</p>
