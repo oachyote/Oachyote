@@ -1,15 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25”
+
   
 
 
@@ -32,15 +21,3 @@ Here are some ideas to get you started:
 <p align="center">
   <p align=">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  
