@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://raw.githubusercontent.com/oachyote/oachyote/main/IMG_0315.jpeg" width="600"/>
 </p>
-
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="150" alt="sakura"/> 
+</p>
