@@ -9,9 +9,8 @@
   <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
   <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
   <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-</p>
+  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25”
+  
 
 
 <!--
@@ -44,5 +43,4 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
   <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
   <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-  <img src="https://raw.githubusercontent.com/oachyote/Oachyote/main/IMG_0470.png" width="25"/>
-</p>
+  
