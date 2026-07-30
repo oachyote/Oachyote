@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/Oachyote/Oachyote/main/IMG_0486.png" width="380" alt="gaara cake"/>
+  <img src="https://raw.githubusercontent.com/Oachyote/Oachyote/main/IMG_0492.jpeg" width="380" alt="ảnh mới"/>
 </p>
