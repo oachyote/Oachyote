@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oachyote/oachyote/main/IMG_0315.jpeg" width="600"/>
-<p align="center">
-  <p align=">
-<p align="center">
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/Oachyote/Oachyote/main/IMG_0486.png" width="380" alt="gaara cake"/>
+</p>
