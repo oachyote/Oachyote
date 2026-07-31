@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/Oachyote/Oachyote/main/IMG_0492.jpeg" width="380" alt="ảnh mới"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oachyote/Oachyote/main/IMG_0492.jpeg" width="400" alt="anh 0492"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oachyote/Oachyote/main/IMG_0511.jpeg" width="100%" alt="chibi dau"/>
